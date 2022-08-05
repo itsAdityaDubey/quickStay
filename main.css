@@ -133,3 +133,24 @@
   ::-webkit-scrollbar-thumb:hover {
     background: #555; 
   }
+
+  .heroInput{
+    border-width: 3px;
+    margin-bottom: 1.2em;
+    text-align: center;
+  }
+  .heroButton{
+    border-width: 3px; margin-top: 1.2em;
+  }
+  .heroSlogan{
+    font-family: 'PT Serif', serif;
+    font-size: 40px;
+    color: #101f90;
+    margin-bottom: 1.6em;
+  }
+  .heroPointer{
+    font-family: 'PT Serif', serif;
+    font-size: 18px;
+    color: #101f90;
+    margin-bottom: 1.6em;
+  }
